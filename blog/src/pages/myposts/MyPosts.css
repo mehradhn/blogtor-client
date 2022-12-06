@@ -1,0 +1,16 @@
+.postpost{
+    /* background-color: whitesmoke; */
+     display: flex;
+    flex-wrap: wrap;
+}
+.post{
+    border-radius: 16px;
+    background-color: whitesmoke;
+    /* display: flex;
+    flex-wrap: wrap; */
+    width: 300px;
+}
+.postDesc{
+    text-align: center;
+    text-overflow: ellipsis;
+}

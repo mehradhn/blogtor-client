@@ -1,0 +1,28 @@
+
+.titlePost{
+  margin-bottom: 20px;
+  width: 1000px;
+  text-align: center;
+  height: 40px;
+  border-style: none;
+  border-radius: 18px;
+}
+
+.editor{
+  width: 1000px;
+}
+
+.writeSubmit{
+  margin-top: 20px;
+  background-color: teal;
+  border-style: none;
+  padding: 16px;
+  color: whitesmoke;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: background-color .5s;
+}
+
+.writeSubmit:hover{
+  background-color: rgb(8, 71, 71)
+}

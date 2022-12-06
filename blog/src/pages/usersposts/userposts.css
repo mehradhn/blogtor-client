@@ -1,0 +1,11 @@
+.container-users-posts{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #e4e4e4;
+    min-height: 100vh;
+}
+
+.no-posts{
+    margin: auto;
+    color: rgb(0, 0, 0);
+}
